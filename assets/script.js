@@ -21,7 +21,7 @@ var hour15 = "15";
 var hour16 = "16";
 var hour17 = "17";
 $('#currentDay').text(currentDay.format('dddd MMM D, YYYY'));
-m
+
 if (hour09 === currentTime) {
   document.getElementById("hour-09").style.backgroundColor = '#ff6961'
 } else if (hour09 < currentTime) {
