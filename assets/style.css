@@ -61,7 +61,6 @@ body {
   }
 
 #currentDay {
-
     color: gold;
 }
 
@@ -75,12 +74,5 @@ body {
 
 .lead {
   color: white;
-}
-=======
-    color: #000000;
-}
-
-#hour-5 {
-    margin-bottom: 60px;
 }
 
