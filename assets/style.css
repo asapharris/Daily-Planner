@@ -1,7 +1,7 @@
 body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
-    background-color: burlywood;
+    background-color: midnightblue;
   }
   
   textarea {
@@ -22,13 +22,14 @@ body {
   }
   
   .row {
-    border-top: 1px solid white;
+    border: solid black 3px;
   }
   
   .hour {
-    background-color: #06aed5;
+    background-color: white;
     color: #000000;
-    border-top: 1px dashed #000000;
+    border-radius: 10px;
+    border: #000000 solid 3px;
   }
   
   .past {
@@ -60,10 +61,17 @@ body {
   }
 
 #currentDay {
-    color: #000000;
+    color: gold;
 }
 
 #hour-17 {
     margin-bottom: 60px;
 }
 
+.display-3 {
+  color: white;
+}
+
+.lead {
+  color: white;
+}
